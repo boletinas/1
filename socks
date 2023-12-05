@@ -1,13 +1,4 @@
-Platon Opshtein, [05.12.2023 14:50]
-Тест подключения c :
 curl --ipv4 --socks5-hostname socks5://156.67.217.240:61080 ident.me
-
-Тест подключения c других хостов по логину-паролю:
 curl --ipv4 --socks5-hostname socks5://Zhkltoye09:BQWMCX_456_TANGO@156.67.217.240:61080 ident.me
-
-Platon Opshtein, [05.12.2023 14:50]
-Тест подключения c :
 curl --ipv4 --socks5-hostname socks5://104.247.164.148:61080 ident.me
-
-Тест подключения c других хостов по логину-паролю:
 curl --ipv4 --socks5-hostname socks5://Zhkltoye09:BQWMCX_456_TANGO@104.247.164.148:61080 ident.me
